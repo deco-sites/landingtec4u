@@ -1,5 +1,7 @@
 {
   "imports": {
+    "deco-sites/landingtec4u/": "./",
+
     "deco-sites/black-friday-lp/": "./",
 
     "$store/": "./",
